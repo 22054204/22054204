@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/followers/22054204?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/22054204?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-GitHub-181717?style=flat&logo=github" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Public%20Repositories-GitHub-181717?style=flat&logo=github" alt="Public Repositories"/>
   </a>
 </p>
 
@@ -27,17 +27,17 @@
 </p>
 
 
-<!-- ========================= ABOUT ========================= -->
+<!-- ========================= ABOUT ME ========================= -->
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering graduate from **KIIT**
 - 💻 Software Engineer focused on **software development and problem solving**
-- 🧠 Strong interest in **Data Structures & Algorithms**
+- 🧠 Passionate about **Data Structures & Algorithms**
 - ☕ Working primarily with **Java**
-- 🗄️ Interested in **SQL, databases and backend development**
-- 🌱 Currently exploring **Spring Boot, REST APIs and backend development**
-- 🚀 Building projects to turn ideas into practical software
+- 🗄️ Interested in **SQL, databases, and backend development**
+- 🌱 Currently learning **Spring Boot, REST APIs, and backend development**
+- 🚀 Building practical projects and continuously improving my development skills
 - 🔍 Currently looking for **Software Engineering opportunities**
 - ♟️ Outside of code, I enjoy **playing chess**
 
@@ -48,26 +48,23 @@
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,sql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python" alt="Programming Languages"/>
 </p>
 
-### 🌐 Backend & Development
+### 🌐 Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,git,github" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,git,github" alt="Backend and Database Technologies"/>
 </p>
 
 ### 📊 Data & Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Machine Learning Technologies"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 </p>
 
 
@@ -79,29 +76,41 @@
 <tr>
 <td width="50%">
 
-### 📚 Library Management System
+<h3 align="center">📚 Library Management System</h3>
 
-A software project for managing library operations, users and books.
+<p align="center">
+A software application for managing library operations, books and users.
+</p>
 
-**Focus:** Java • Software Development
+<p align="center">
+<b>Java • Software Development</b>
+</p>
 
+<p align="center">
 <a href="https://github.com/22054204/Library-Management-System">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Library Management System"/>
 </a>
+</p>
 
 </td>
 
 <td width="50%">
 
-### 🧠 LeetCode DSA Problems
+<h3 align="center">🧠 LeetCode DSA Problems</h3>
 
-A collection of Data Structures & Algorithms solutions covering different problem-solving patterns.
+<p align="center">
+A collection of Data Structures & Algorithms solutions focused on problem solving.
+</p>
 
-**Focus:** Java • DSA • Problem Solving
+<p align="center">
+<b>Java • DSA • Problem Solving</b>
+</p>
 
+<p align="center">
 <a href="https://github.com/22054204/LeetCode-DSA-Problems">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode DSA Problems"/>
 </a>
+</p>
 
 </td>
 </tr>
@@ -109,89 +118,214 @@ A collection of Data Structures & Algorithms solutions covering different proble
 <tr>
 <td width="50%">
 
-### 🗄️ LeetCode SQL Problems
+<h3 align="center">📊 Power BI Retail Dashboard</h3>
 
-A collection of SQL solutions for practicing database queries and problem solving.
+<p align="center">
+An interactive retail analytics dashboard for exploring sales, performance and business insights.
+</p>
 
-**Focus:** SQL • MySQL • Databases
+<p align="center">
+<b>Power BI • Data Analysis • Visualization</b>
+</p>
 
-<a href="https://github.com/22054204/LeetCode-SQL-Problems">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<p align="center">
+<a href="https://github.com/22054204/PowerBI-Retail-Dashboard">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Power BI Retail Dashboard"/>
 </a>
+</p>
 
 </td>
 
 <td width="50%">
 
-### 🤖 Vision Transformer
+<h3 align="center">❤️ Heart Disease Prediction</h3>
 
-Image classification project using a Vision Transformer architecture on CIFAR-10.
+<p align="center">
+A machine learning project that predicts the likelihood of heart disease using patient data.
+</p>
 
-**Focus:** Python • PyTorch • Deep Learning
+<p align="center">
+<b>Python • Machine Learning • Scikit-Learn</b>
+</p>
 
-<a href="https://github.com/22054204/Vision-Transformer-for-CIFAR-10-Classification">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<p align="center">
+<a href="https://github.com/22054204/Heart-Disease-Prediction-using-AI-ML-">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Heart Disease Prediction"/>
 </a>
+</p>
 
 </td>
 </tr>
 </table>
 
 
-<!-- ========================= OTHER PROJECTS ========================= -->
+<!-- ========================= MORE PROJECTS ========================= -->
+
+<!--
 
 ## 📂 More Projects
 
-- 🧬 [Heart Disease Prediction using AI/ML](https://github.com/22054204/Heart-Disease-Prediction-using-AI-ML-)
-- 📊 [Power BI Retail Dashboard](https://github.com/22054204/PowerBI-Retail-Dashboard)
-- ☕ [Data Structures in Java](https://github.com/22054204/data-structures-java)
-- 🐍 [Python Practice](https://github.com/22054204/Python)
-- 🗄️ [MySQL Workbench](https://github.com/22054204/MySQL-Workbench)
+| Project | Description |
+|---|---|
+| ☕ [Data Structures in Java](https://github.com/22054204/data-structures-java) | Data structures and algorithms implemented in Java |
+| 🐍 [Python](https://github.com/22054204/Python) | Python learning and practice repository |
+| 🗄️ [MySQL Workbench](https://github.com/22054204/MySQL-Workbench) | SQL and database practice |
+| 🌱 [Java Swing Learning](https://github.com/22054204/Java-Swing-Learning) | Java Swing learning and GUI practice |
+| 🤝 [First Contributions](https://github.com/22054204/first-contributions) | Open-source contribution practice |
 
+-->
 
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/22054204">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=22054204&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" />
-  </a>
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-  <a href="https://github.com/22054204">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22054204&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-  </a>
-</p>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=22054204&theme=github_dark"
+  alt="Ranjan's GitHub statistics"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=22054204&theme=github_dark"
+  alt="Ranjan's top languages by repository"
+/>
+
+</td>
+</tr>
+</table>
 
 
-<!-- ========================= CONTRIBUTION STREAK ========================= -->
+<!-- ========================= STREAK ========================= -->
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=22054204&theme=transparent&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=22054204&theme=github-dark-blue&hide_border=true"
+    alt="Ranjan's GitHub contribution streak"
+  />
 </p>
 
 
-<!-- ========================= CONTRIBUTION ACTIVITY ========================= -->
+
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+
+<!--
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/22054204">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=22054204&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-  </a>
+
+<table>
+<tr>
+<td align="center"><b>Sep</b></td>
+<td align="center"><b>Oct</b></td>
+<td align="center"><b>Nov</b></td>
+<td align="center"><b>Dec</b></td>
+<td align="center"><b>Jan</b></td>
+<td align="center"><b>Feb</b></td>
+<td align="center"><b>Mar</b></td>
+<td align="center"><b>Apr</b></td>
+<td align="center"><b>May</b></td>
+<td align="center"><b>Jun</b></td>
+<td align="center"><b>Jul</b></td>
+<td align="center"><b>Aug</b></td>
+</tr>
+
+<tr>
+<td>⬛ ⬛ 🟩 ⬛ 🟩 ⬛ 🟩</td>
+<td>⬛ 🟩 🟩 ⬛ 🟩 🟩 🟩</td>
+<td>⬛ ⬛ 🟩 ⬛ 🟩 🟩 ⬛</td>
+<td>⬛ 🟩 🟩 🟩 🟩 🟩 🟩</td>
+<td>⬛ ⬛ 🟩 🟩 🟩 ⬛ 🟩</td>
+<td>⬛ 🟩 🟩 🟩 🟩 🟩 🟩</td>
+<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
+<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
+<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
+<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
+<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
+<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
+</tr>
+
+</table>
+
+<p align="center">
+  <sub>Less</sub>
+  ⬛ 🟩 🟢 🟢 🟢
+  <sub>More</sub>
 </p>
+
+</p>
+
+-->
+
+<!-- ========================= CONTRIBUTION CALENDAR ========================= -->
+
+## 🗓️ Contribution Calendar
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/0e4429/22054204"
+    alt="Ranjan's GitHub contribution calendar"
+  />
+</p>
+</details>
 
 
 <!-- ========================= GITHUB TROPHIES ========================= -->
-
+<!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=22054204&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=22054204&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="Ranjan's GitHub trophies"
+  />
 </p>
 
+-->
+<!-- ========================= CODING PROFILES ========================= -->
+
+## 🧩 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/ranjan_22054204">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+<a href="https://codeforces.com/profile/ranjan_22054204">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+<a href="https://www.codechef.com/users/ranjan22054204">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+<a href="https://www.hackerrank.com/ranjan_22054204">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+</a>
+
+<a href="https://www.hackerearth.com/@22054204">
+  <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/ranjan22054204">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
+<a href="https://kaggle.com/ranjansharma4204">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+
+</p>
 
 <!-- ========================= CONNECT ========================= -->
 
@@ -199,28 +333,16 @@ Image classification project using a Vision Transformer architecture on CIFAR-10
 
 <p align="center">
 
+<a href="https://github.com/22054204">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 <a href="https://linkedin.com/in/ranjansharma2004">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://kaggle.com/ranjansharma4204">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/ranjan_22054204">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/ranjan_22054204">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/ranjan22054204">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/ranjan_22054204">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 
 </p>
@@ -233,7 +355,7 @@ Image classification project using a Vision Transformer architecture on CIFAR-10
 <p align="center">
 
 <a href="https://ranjan-22054204.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
@@ -246,7 +368,7 @@ Image classification project using a Vision Transformer architecture on CIFAR-10
 <p align="center">
 
 <a href="mailto:ranjan22054204@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ranjan22054204%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-ranjan22054204%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
