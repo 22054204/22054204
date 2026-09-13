@@ -29,7 +29,7 @@
 
 <!-- ========================= ABOUT ME ========================= -->
 
-## 👨‍💻 About Me
+<p><strong>👨‍💻 About Me</strong></p>
 
 - 🎓 B.Tech Computer Science & Engineering graduate from **KIIT**
 - 💻 Software Engineer focused on **software development and problem solving**
@@ -44,21 +44,21 @@
 
 <!-- ========================= TECH STACK ========================= -->
 
-## 🛠️ Tech Stack
+<p><strong>🛠️ Tech Stack</strong></p>
 
-### 💻 Programming Languages
+<p><strong>💻 Programming Languages</strong></p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cpp,c,python" alt="Programming Languages"/>
 </p>
 
-### 🌐 Backend & Databases
+<p><strong>🌐 Backend & Databases</strong></p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,git,github" alt="Backend and Database Technologies"/>
 </p>
 
-### 📊 Data & Machine Learning
+<p><strong>📊 Data & Machine Learning</strong></p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Machine Learning Technologies"/>
@@ -70,10 +70,11 @@
 
 <!-- ========================= FEATURED PROJECTS ========================= -->
 
-## 🚀 Featured Projects
+<p><strong>🚀 Featured Projects</strong></p>
 
 <table>
 <tr>
+
 <td width="50%">
 
 <p align="center">
@@ -117,9 +118,11 @@ A collection of Data Structures & Algorithms solutions focused on problem solvin
 </p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 <p align="center">
@@ -163,13 +166,14 @@ A machine learning project that predicts the likelihood of heart disease using p
 </p>
 
 </td>
+
 </tr>
 </table>
 
 
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 
-## 📊 GitHub Analytics
+<p><strong>📊 GitHub Analytics</strong></p>
 
 <table align="center">
 <tr>
@@ -198,7 +202,7 @@ A machine learning project that predicts the likelihood of heart disease using p
 
 <!-- ========================= CONTRIBUTION STREAK ========================= -->
 
-## 🔥 Contribution Streak
+<p><strong>🔥 Contribution Streak</strong></p>
 
 <p align="center">
   <img
@@ -210,7 +214,7 @@ A machine learning project that predicts the likelihood of heart disease using p
 
 <!-- ========================= CODING PROFILES ========================= -->
 
-## 🧩 Coding Profiles
+<p><strong>🧩 Coding Profiles</strong></p>
 
 <p align="center">
 
@@ -247,7 +251,7 @@ A machine learning project that predicts the likelihood of heart disease using p
 
 <!-- ========================= CONNECT ========================= -->
 
-## 🤝 Connect With Me
+<p><strong>🤝 Connect With Me</strong></p>
 
 <p align="center">
 
@@ -268,7 +272,7 @@ A machine learning project that predicts the likelihood of heart disease using p
 
 <!-- ========================= PORTFOLIO ========================= -->
 
-## 🌐 Portfolio
+<p><strong>🌐 Portfolio</strong></p>
 
 <p align="center">
 
@@ -281,7 +285,7 @@ A machine learning project that predicts the likelihood of heart disease using p
 
 <!-- ========================= CONTACT ========================= -->
 
-## 📫 Contact
+<p><strong>📫 Contact</strong></p>
 
 <p align="center">
 
