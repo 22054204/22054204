@@ -76,7 +76,9 @@
 <tr>
 <td width="50%">
 
-<h3 align="center">📚 Library Management System</h3>
+<p align="center">
+  <strong>📚 Library Management System</strong>
+</p>
 
 <p align="center">
 A software application for managing library operations, books and users.
@@ -96,7 +98,9 @@ A software application for managing library operations, books and users.
 
 <td width="50%">
 
-<h3 align="center">🧠 LeetCode DSA Problems</h3>
+<p align="center">
+  <strong>🧠 LeetCode DSA Problems</strong>
+</p>
 
 <p align="center">
 A collection of Data Structures & Algorithms solutions focused on problem solving.
@@ -118,7 +122,9 @@ A collection of Data Structures & Algorithms solutions focused on problem solvin
 <tr>
 <td width="50%">
 
-<h3 align="center">📊 Power BI Retail Dashboard</h3>
+<p align="center">
+  <strong>📊 Power BI Retail Dashboard</strong>
+</p>
 
 <p align="center">
 An interactive retail analytics dashboard for exploring sales, performance and business insights.
@@ -138,7 +144,9 @@ An interactive retail analytics dashboard for exploring sales, performance and b
 
 <td width="50%">
 
-<h3 align="center">❤️ Heart Disease Prediction</h3>
+<p align="center">
+  <strong>❤️ Heart Disease Prediction</strong>
+</p>
 
 <p align="center">
 A machine learning project that predicts the likelihood of heart disease using patient data.
@@ -159,28 +167,13 @@ A machine learning project that predicts the likelihood of heart disease using p
 </table>
 
 
-<!-- ========================= MORE PROJECTS ========================= -->
-
-<!--
-
-## 📂 More Projects
-
-| Project | Description |
-|---|---|
-| ☕ [Data Structures in Java](https://github.com/22054204/data-structures-java) | Data structures and algorithms implemented in Java |
-| 🐍 [Python](https://github.com/22054204/Python) | Python learning and practice repository |
-| 🗄️ [MySQL Workbench](https://github.com/22054204/MySQL-Workbench) | SQL and database practice |
-| 🌱 [Java Swing Learning](https://github.com/22054204/Java-Swing-Learning) | Java Swing learning and GUI practice |
-| 🤝 [First Contributions](https://github.com/22054204/first-contributions) | Open-source contribution practice |
-
--->
-
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 
 ## 📊 GitHub Analytics
 
 <table align="center">
 <tr>
+
 <td width="50%" align="center">
 
 <img
@@ -198,11 +191,12 @@ A machine learning project that predicts the likelihood of heart disease using p
 />
 
 </td>
+
 </tr>
 </table>
 
 
-<!-- ========================= STREAK ========================= -->
+<!-- ========================= CONTRIBUTION STREAK ========================= -->
 
 ## 🔥 Contribution Streak
 
@@ -214,83 +208,6 @@ A machine learning project that predicts the likelihood of heart disease using p
 </p>
 
 
-
-<!-- ========================= ACTIVITY GRAPH ========================= -->
-
-<!--
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<table>
-<tr>
-<td align="center"><b>Sep</b></td>
-<td align="center"><b>Oct</b></td>
-<td align="center"><b>Nov</b></td>
-<td align="center"><b>Dec</b></td>
-<td align="center"><b>Jan</b></td>
-<td align="center"><b>Feb</b></td>
-<td align="center"><b>Mar</b></td>
-<td align="center"><b>Apr</b></td>
-<td align="center"><b>May</b></td>
-<td align="center"><b>Jun</b></td>
-<td align="center"><b>Jul</b></td>
-<td align="center"><b>Aug</b></td>
-</tr>
-
-<tr>
-<td>⬛ ⬛ 🟩 ⬛ 🟩 ⬛ 🟩</td>
-<td>⬛ 🟩 🟩 ⬛ 🟩 🟩 🟩</td>
-<td>⬛ ⬛ 🟩 ⬛ 🟩 🟩 ⬛</td>
-<td>⬛ 🟩 🟩 🟩 🟩 🟩 🟩</td>
-<td>⬛ ⬛ 🟩 🟩 🟩 ⬛ 🟩</td>
-<td>⬛ 🟩 🟩 🟩 🟩 🟩 🟩</td>
-<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
-<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
-<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
-<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
-<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
-<td>🟩 🟩 🟩 🟩 🟩 🟩 🟩</td>
-</tr>
-
-</table>
-
-<p align="center">
-  <sub>Less</sub>
-  ⬛ 🟩 🟢 🟢 🟢
-  <sub>More</sub>
-</p>
-
-</p>
-
--->
-
-<!-- ========================= CONTRIBUTION CALENDAR ========================= -->
-
-## 🗓️ Contribution Calendar
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/0e4429/22054204"
-    alt="Ranjan's GitHub contribution calendar"
-  />
-</p>
-</details>
-
-
-<!-- ========================= GITHUB TROPHIES ========================= -->
-<!--
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=22054204&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="Ranjan's GitHub trophies"
-  />
-</p>
-
--->
 <!-- ========================= CODING PROFILES ========================= -->
 
 ## 🧩 Coding Profiles
@@ -326,6 +243,7 @@ A machine learning project that predicts the likelihood of heart disease using p
 </a>
 
 </p>
+
 
 <!-- ========================= CONNECT ========================= -->
 
