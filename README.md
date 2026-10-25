@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=RANJAN%20SHARMA&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Software%20Development%20Engineer%20%E2%80%A2%20Java%20%26%20Backend%20Systems%20%E2%80%A2%20600%2B%20DSA&descAlignY=55&descAlign=50&descSize=17" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RANJAN%20SHARMA&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20Backend%20Systems&descAlignY=58&descAlign=50&descSize=18" width="100%" alt="Ranjan Sharma - Software Development Engineer" />
 
   <!-- Animated Typing SVG -->
   <a href="https://ranjan-22054204.vercel.app/">
@@ -35,12 +35,15 @@
   <a href="https://ranjan-22054204.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/ranjansharma2004">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/ranjan_22054204">
     <img src="https://img.shields.io/badge/🧠_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+  &nbsp;
   <a href="mailto:ranjan22054204@gmail.com">
     <img src="https://img.shields.io/badge/📫_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -141,166 +144,6 @@ passions: Clean Architecture, Low-Latency Design, Strategy Games (Chess ♟️)
   </a>
   <br/>
   <sub><b>Git</b> • <b>GitHub</b> • <b>Docker</b> • <b>Linux</b> • <b>VS Code</b> • <b>IntelliJ IDEA</b> • <b>MySQL Workbench</b></sub>
-</td>
-</tr>
-
-</table>
-
-<br/>
-
----
-
-### 🚀 Featured Engineering Projects
-
-<table width="100%">
-
-<tr>
-<td width="50%" valign="top">
-
-#### 📚 [Library Management System](https://github.com/22054204/Library-Management-System)
-> *Comprehensive enterprise Java application for managing end-to-end library operations, book catalogs, and membership records.*
-
-- 🏗️ Built using **Core Java**, **JDBC**, and **MySQL** with strict MVC architectural separation.
-- 🔐 Robust transaction management ensuring atomic borrowing and return lifecycles.
-- ⚡ Optimized database queries for real-time inventory tracking and search.
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" alt="JDBC"/>
-  <img src="https://img.shields.io/badge/OOP-333333?style=flat-square" alt="OOP"/>
-  <br/><br/>
-  <a href="https://github.com/22054204/Library-Management-System">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-#### 👁️ [Vision Transformer (ViT) for CIFAR-10](https://github.com/22054204/Vision-Transformer-for-CIFAR-10-Classification)
-> *Complete ground-up implementation of a Vision Transformer (CIFARViT_404) for computer vision image classification.*
-
-- 🧠 Designed patch embedding layers and multi-head self-attention mechanisms without convolutions.
-- 📈 Trained and evaluated across **50,000 images** (45k train / 5k val) demonstrating global spatial feature learning.
-- 🔬 Implemented custom positional encodings, MLP classification heads, and performance benchmarks.
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-555555?style=flat-square" alt="CV"/>
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square" alt="Transformers"/>
-  <br/><br/>
-  <a href="https://github.com/22054204/Vision-Transformer-for-CIFAR-10-Classification">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-  </a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### ❤️ [Heart Disease Diagnostic ML System](https://github.com/22054204/Heart-Disease-Prediction-using-AI-ML-)
-> *Predictive healthcare machine learning pipeline evaluating cardiovascular disease risk from patient clinical profiles.*
-
-- 🎯 Achieved **85–90% prediction accuracy** benchmarking Random Forest, XGBoost, and Neural Networks.
-- 📊 Comprehensive evaluation via ROC-AUC curves, confusion matrices, precision, recall, and F1-score.
-- 🧹 Full data pre-processing, handling class imbalances, and feature significance analysis.
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-150458?style=flat-square&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Healthcare_AI-E91E63?style=flat-square" alt="AI"/>
-  <br/><br/>
-  <a href="https://github.com/22054204/Heart-Disease-Prediction-using-AI-ML-">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-#### 📊 [Power BI Retail Analytics Dashboard](https://github.com/22054204/PowerBI-Retail-Dashboard)
-> *Interactive business intelligence dashboard delivering end-to-end insights into retail revenue, customer cohorts, and inventory.*
-
-- 📈 Formulated customized **DAX measures** and structured star-schema dimensional modeling.
-- 🔍 Uncovered key seasonal trends, high-margin category distributions, and regional customer behavior.
-- 💡 Provides actionable KPI cards and executive visual summaries for operational decision-making.
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/DAX-222222?style=flat-square" alt="DAX"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-0078D4?style=flat-square" alt="Data Modeling"/>
-  <img src="https://img.shields.io/badge/BI_Analytics-2E7D32?style=flat-square" alt="BI"/>
-  <br/><br/>
-  <a href="https://github.com/22054204/PowerBI-Retail-Dashboard">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-  </a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🧠 [LeetCode DSA Mastery Hub](https://github.com/22054204/LeetCode-DSA-Problems)
-> *Curated repository containing solutions to hundreds of algorithmic challenges written in clean, idiomatic Java.*
-
-- ⚡ Solved with optimal **asymptotic time & space complexities** with clean problem breakdowns.
-- 🌲 Covers Arrays, Two Pointers, Trees, Graphs, Dynamic Programming, Backtracking, and Heaps.
-- 📚 Continuous interview preparation repository following top competitive coding patterns.
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  <img src="https://img.shields.io/badge/600%2B_Problems-2ea44f?style=flat-square" alt="600+ Problems"/>
-  <img src="https://img.shields.io/badge/Algorithms-7928CA?style=flat-square" alt="Algorithms"/>
-  <br/><br/>
-  <a href="https://github.com/22054204/LeetCode-DSA-Problems">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-#### 🗄️ [LeetCode SQL & Query Optimization Hub](https://github.com/22054204/LeetCode-SQL-Problems)
-> *A comprehensive compendium of LeetCode SQL database problem solutions organized for query mastery.*
-
-- 🔍 Rigorous solutions for Complex Joins, Window Functions (`ROW_NUMBER`, `DENSE_RANK`), and CTEs.
-- 🛠️ Practice queries covering relational algebra, aggregate analytics, and database schema edge cases.
-- 🚀 Bridges the gap between academic SQL theory and production-grade query writing.
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Query_Tuning-0078D4?style=flat-square" alt="Tuning"/>
-  <img src="https://img.shields.io/badge/Interview_Ready-2E7D32?style=flat-square" alt="Interview Ready"/>
-  <br/><br/>
-  <a href="https://github.com/22054204/LeetCode-SQL-Problems">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-  </a>
-</p>
-
 </td>
 </tr>
 
