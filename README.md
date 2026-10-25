@@ -58,21 +58,71 @@
 
 ```yaml
 name: Ranjan Sharma
-title: Software Development Engineer (SDE)
+role: Software Development Engineer (SDE)
 education: B.Tech in Computer Science & Engineering (Batch 2026) @ KIIT
 location: Jammu, India
-specialization: High-Performance Java, Spring Boot, Relational Database Engineering, Distributed Systems
+core_stack: Java (Core & Advanced) • Spring Boot • MySQL • PostgreSQL
 dsa_milestone: 600+ Algorithmic Problems Solved
-current_focus: Building production-grade microservices & scalable backend architectures
-passions: Clean Architecture, Low-Latency Design, Strategy Games (Chess ♟️)
+open_to: Software Engineering / Backend SDE Roles
+passions: Clean Architecture • Low-Latency Systems • Chess Strategy ♟️
 ```
 
-- 🎓 **Engineering Background:** Computer Science & Engineering graduate from **Kalinga Institute of Industrial Technology (KIIT)** with deep rigor in Computer Science fundamentals.
-- ☕ **Backend Craftsmanship:** Highly proficient in **Core & Advanced Java**, **Object-Oriented Design**, and **Spring Boot**, focusing on RESTful services, transactional integrity, and scalable modular code.
-- 🧠 **Algorithmic Mastery:** Conquered **600+ DSA problems** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks, specializing in Graphs, Dynamic Programming, Trees, and Complex Data Structures.
-- 🗄️ **Relational Systems:** Strong grasp of database design, normalization, ACID properties, indexing strategies, and complex query optimizations in **MySQL** and **PostgreSQL**.
-- 🤖 **Deep Learning & Vision:** Engineered custom neural architectures including a **Vision Transformer (ViT)** from scratch in **PyTorch** and predictive clinical models using **XGBoost**.
-- 🚀 **Mission:** Creating resilient, high-throughput software systems that solve tangible real-world business challenges.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Engineering Background
+> Computer Science & Engineering graduate from **Kalinga Institute of Industrial Technology (KIIT)** with deep rigor in core Computer Science fundamentals.
+
+`KIIT University` • `B.Tech CSE 2026` • `Core CS Fundamentals`
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Backend Craftsmanship
+> Highly proficient in **Core & Advanced Java**, **Object-Oriented Design**, and **Spring Boot**, focusing on RESTful microservices and clean modular code.
+
+`Java (Core & Adv)` • `Spring Boot` • `REST APIs` • `OOP Design`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Algorithmic Mastery
+> Conquered **600+ DSA problems** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks, specializing in Graphs, DP, Trees, and Heaps.
+
+`600+ Problems Solved` • `LeetCode` • `Data Structures & Algorithms`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Relational Database Systems
+> Strong grasp of database design, schema normalization, ACID properties, indexing strategies, and complex query optimizations in **MySQL** and **PostgreSQL**.
+
+`MySQL` • `PostgreSQL` • `ACID Transactions` • `Query Optimization`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Deep Learning & AI
+> Engineered custom neural architectures including a **Vision Transformer (ViT)** from scratch in **PyTorch** and predictive clinical models using **XGBoost**.
+
+`PyTorch` • `Vision Transformers` • `Machine Learning` • `Clinical AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Engineering Mission
+> Dedicated to architecting resilient, high-throughput, and scalable backend software systems that solve tangible, mission-critical real-world challenges.
+
+`Clean Architecture` • `Scalability` • `Low Latency` • `Distributed Systems`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
