@@ -93,9 +93,9 @@ passions: Clean Architecture • Low-Latency Systems • Chess Strategy ♟️
 <td width="50%" valign="top">
 
 ### 🧠 Algorithmic Mastery
-> Conquered **600+ DSA problems** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks, specializing in Graphs, DP, Trees, and Heaps.
+> Conquered **600+ DSA problems** across LeetCode, takeUforward, Codeforces, CodeChef, and GeeksforGeeks, specializing in Graphs, DP, Trees, and Heaps.
 
-`600+ Problems Solved` • `LeetCode` • `Data Structures & Algorithms`
+`600+ Problems Solved` • `LeetCode` • `takeUforward` • `Algorithms`
 
 </td>
 <td width="50%" valign="top">
@@ -226,16 +226,19 @@ passions: Clean Architecture • Low-Latency Systems • Chess Strategy ♟️
   <a href="https://leetcode.com/ranjan_22054204">
     <img src="https://img.shields.io/badge/LeetCode-ranjan__22054204-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+  <a href="https://takeuforward.org/profile/ranjan_22054204">
+    <img src="https://img.shields.io/badge/takeUforward-ranjan__22054204-1877F2?style=for-the-badge" alt="takeUforward"/>
+  </a>
   <a href="https://codeforces.com/profile/ranjan_22054204">
     <img src="https://img.shields.io/badge/Codeforces-ranjan__22054204-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://www.codechef.com/users/ranjan22054204">
     <img src="https://img.shields.io/badge/CodeChef-ranjan22054204-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+  <br/>
   <a href="https://auth.geeksforgeeks.org/user/ranjan22054204">
     <img src="https://img.shields.io/badge/GeeksforGeeks-ranjan22054204-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
-  <br/>
   <a href="https://www.hackerrank.com/ranjan_22054204">
     <img src="https://img.shields.io/badge/HackerRank-ranjan__22054204-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
   </a>
