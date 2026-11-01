@@ -265,7 +265,7 @@ passions: Clean Architecture • Low-Latency Systems • Chess Strategy ♟️
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=22054204&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&hide_rank=true" alt="GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=22054204&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&hide_rank=true" alt="GitHub Stats" width="100%"/>
 </td>
 <td width="50%" align="center">
   <img src="https://streak-stats.demolab.com/?user=22054204&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117" alt="GitHub Streak" width="100%"/>
@@ -276,7 +276,7 @@ passions: Clean Architecture • Low-Latency Systems • Chess Strategy ♟️
 <br/>
 
 <!-- Top Languages Card (Centered Balance) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22054204&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" alt="Top Languages" width="60%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=22054204&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" alt="Top Languages" width="60%"/>
 
 </div>
 
